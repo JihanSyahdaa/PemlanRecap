@@ -24,20 +24,8 @@ public class RasionalDemo {
         System.out.println("R1 >= R2 : " + R1.moreThanOrEqual(R2));
         System.out.println();
 
-        // System.out.print("R1 : ");
-        // R1.cetak();
-        // System.out.print("R2 : ");
-        // R2.cetak();
-        // System.out.println();
-
         R1.Sederhana();
         R2.Sederhana();
-
-        // System.out.print("R1 : ");
-        // R1.cetak();
-        // System.out.print("R2 : ");
-        // R2.cetak();
-        // System.out.println();
 
         System.out.println("Setelah dilakukan Cast ke double menjadi : " );
         System.out.println("R1 : " + R1.Cast());
